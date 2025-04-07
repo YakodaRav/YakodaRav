@@ -1,1 +1,1 @@
-![tryhackme stats](https://raw.githubusercontent.com/<YakodaRav>/<YakodaRav>/master/assets/thm_propic.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mr.yakoda.png)
