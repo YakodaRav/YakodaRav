@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakodarav&show_icons=true&locale=en" alt="yakodarav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakodarav&" alt="yakodarav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YakodaRav&" alt="Yakoda" /></p>
 
